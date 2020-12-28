@@ -1,5 +1,6 @@
 # design and simulate 3 link / 3DOF Robot Arm using Python
-# Simulation Output Animation : https://imgflip.com/gif/4rvknr
+# Simulation Output Animation :
+ https://imgflip.com/gif/4rvmdi
 
 # Methodology
 The robot inverse kinematics task is concerned with the recognition of the whole feasible and proper sets of joint variables that would understand the solution to find out the positions and orientations of the end effector. In the inverse kinematics problem would not specify constantly a unique solution compared with forward solution i.e., 
